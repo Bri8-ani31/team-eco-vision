@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://bri8-ani31.github.io/team-eco-vision/sitemap.xml
